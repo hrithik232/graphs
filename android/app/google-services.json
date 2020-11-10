@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625561998429",
+    "firebase_url": "https://graph-d25ef.firebaseio.com",
+    "project_id": "graph-d25ef",
+    "storage_bucket": "graph-d25ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625561998429:android:1d8f5e76bccfe3b8a9a9b4",
+        "android_client_info": {
+          "package_name": "com.hrithik.graphsinflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625561998429-1bkp1gde5ov84eqq4vhjecr99agec34k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr_kieoUP-8mX4JzmFns63_MfrY4uyxdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625561998429-1bkp1gde5ov84eqq4vhjecr99agec34k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
